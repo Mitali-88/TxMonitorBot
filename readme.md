@@ -1,0 +1,2 @@
+- add chat id to receive the message through your bot 
+- get your chat id from @RawDataBot /start the bot and copy your chat id
