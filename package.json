@@ -1,7 +1,7 @@
 {
   "name": "txmonitorbot",
   "version": "1.0.0",
-  
+   "type": "module",
   "description": "TxMonitorBot is a Telegram bot that monitors blockchain transactions in real time, analyzes block activity, and detects spam or suspicious transactions across the network.",
   
   "main": "index.js",
